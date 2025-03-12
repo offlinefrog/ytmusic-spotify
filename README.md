@@ -4,4 +4,4 @@ Run through a simple webpage and uses authorization with PKCE Flow.<br>
 Made with<br>
 -- cheerio: https://github.com/cheeriojs/cheerio<br>
 -- playwright: https://github.com/microsoft/playwright<br>
--- and Spotify Web API
+-- Spotify Web API
