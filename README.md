@@ -1,4 +1,4 @@
-A simple Javascript/Typescript module to port playlists in Youtube Music to Spotify.<br>
+A Javascript/Typescript module to port playlists in Youtube Music to Spotify.<br>
 Run through a simple webpage and uses authorization with PKCE Flow.<br>
 <br>
 Made with<br>
