@@ -1,5 +1,7 @@
-A simple Python script to port playlists in Youtube Music to Spotify.<br>
-Currently operational through personal app details and manual redirect URI.<br>
+A Javascript/Typescript module to port playlists in Youtube Music to Spotify.<br>
+Run through a simple webpage and uses authorization with PKCE Flow.<br>
 <br>
-Made with spotipy: https://github.com/spotipy-dev/spotipy<br>
-&emsp;&emsp;&ensp;&thinsp;&thinsp;and ytmusic: https://github.com/sigma67/ytmusicapi
+Made with<br>
+-- cheerio: https://github.com/cheeriojs/cheerio<br>
+-- playwright: https://github.com/microsoft/playwright<br>
+-- and Spotify Web API
